@@ -15,3 +15,6 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+Java_start/.idea/encodings.xml
+Java_start/.idea/vcs.xml
+Java_start/.idea/misc.xml
